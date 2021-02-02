@@ -11,9 +11,6 @@ const itemSchema = new Schema(
         info: {
             type: String,
         },
-        image: {
-            type: String,
-        },
     },
     { timestamps: true }
 );
